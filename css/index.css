@@ -1,0 +1,78 @@
+
+.t_s {
+    background-image: url('/huddle-landing-page-with-alternating-feature-blocks-master/images/bg-hero-desktop.svg');
+    
+}
+.t_s nav {
+    padding: 20px;
+    /* width: 100%; */
+}
+.logo{
+    float: left;
+}
+.t_s_b{
+    float: right;
+    padding-right: 50px;
+}
+.t_s_b button{
+    padding: 10px 40px 10px 40px;
+    background-color: white;
+    color:black;
+    border-radius: 28px;
+    border: 0ch;
+}
+
+.illustration{
+    margin-top: 10px;
+    margin-left: 1px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+.get_starter{
+    border-radius: 28px;
+    color: white;
+    background-color: rgb(238, 10, 124);
+    border: 0ch;
+    padding: 10px 40px 10px 40px;
+}
+
+.g_t_s{
+    margin-top: 50px;
+    padding: 20px;
+  display: flex;
+  justify-content:space-between;  
+  align-items: stretch;
+  box-shadow: 1px 1px 1px 1px;
+  border-color: white;
+}
+.f_c_s{
+    text-align: right;
+    display: flex;
+    justify-content: space-between;
+}
+.y_u_s_text{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    text-align: center;
+}
+.get_s{
+text-align: center;
+color: white;
+border-radius: 28px;
+background-color: rgb(238, 10, 124);
+
+
+ 
+}
+
+
+
+
+
+
+
